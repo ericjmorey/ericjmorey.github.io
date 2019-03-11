@@ -1,4 +1,4 @@
 # Eric J Morey's Website
-Hello Rennes
+Hello **Rennes**
 
 Using the Merot Theme Now
